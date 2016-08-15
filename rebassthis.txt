@@ -1,5 +1,6 @@
 Bebase practice
-Doing changes to the master branch now.
+Now we have a branch for some changes. It is called rebase-branch.
+Some more changes to this file. 
 
 
 Down here someone figured out that we need to add a line. 
