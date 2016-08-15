@@ -7,3 +7,4 @@ Down here someone figured out that we need to add a line.
 
 
 New fix down here. 
+Now we have a branch for some changes. It is called rebase-branch
