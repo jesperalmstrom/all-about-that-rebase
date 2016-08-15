@@ -1,2 +1,3 @@
 Bebase practice
-Now we have a branch for some changes. It is called rebase-branch
+Now we have a branch for some changes. It is called rebase-branch.
+Some more changes to this file. 
